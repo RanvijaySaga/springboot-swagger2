@@ -1,4 +1,4 @@
-# Swagger 2 (SpringFox) with Spring Boot
+# Swagger 2 (SpringFox) with Spring Boot 2.x.x version
 This project is a simple Spring Boot application that demonstrates how to use Swagger 2 for documenting a Spring REST API.
 Using the Springfox implementation of the Swagger 2 specification.
 
