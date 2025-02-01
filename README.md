@@ -40,7 +40,7 @@ the `BeanValidatorPluginsConfiguration` class to the SpringFoxConfig class:
 Spring Boot application.
 >>* if You are using` springfox-boot-starter` dependency, you don't need to add springfox-data-rest, springfox-bean-validators 
 or any other springfox dependencies explicitly, it's already included in the springfox-boot-starter dependency.
-<br>
+>>
 >>* if you are using `springfox-boot-starter` dependency, you don't need to add exclusive imports like SpringDataRestConfiguration, 
  BeanValidatorPluginsConfiguration are not needed 
 
